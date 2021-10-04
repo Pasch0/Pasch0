@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasch0</h1>
-<h3 align="center">A passionate ofensive security student</h3>
+<h3 align="center">A passionate offensive security student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasch0&label=Profile%20views&color=0e75b6&style=flat" alt="pasch0" /> </p>
 
