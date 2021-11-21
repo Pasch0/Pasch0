@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasch0&label=Profile%20views&color=0e75b6&style=flat" alt="pasch0" /> </p>
 
-- 🔭 I’m currently working on a **NOC_BOT**
+- 🔭 I’m currently working on a **Security Operations Center Automation System**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently improving my **Network Security Techniques**
 
-- 📫 How to reach me **pasch0.s3c@gmail.com**
+- 📫 How to reach me **pascoal.lucasa@gmail.com**
 
 - 📄 Know about my experiences [https://pasch0.github.io](https://pasch0.github.io)
-
-- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
